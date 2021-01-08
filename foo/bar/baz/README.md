@@ -1,3 +1,3 @@
 foo
 bar
-qux
+baz
